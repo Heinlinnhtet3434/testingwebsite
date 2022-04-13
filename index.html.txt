@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+    <html> 
+        <head>Testing 1 2 3
+        </head>
+        <body>
+            <h1>Thanks you for visiting and this is my first time building a website </h1>
+            <img src="https://bit.ly/3vk8W8h"/>
+            <div>Completely have no idea what to add on this website lmao haha</div>
+        </body>
+    </<html>
